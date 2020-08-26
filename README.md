@@ -1,4 +1,4 @@
-# hikingapp
+# HikeFinder
 
 ### Compiles and hot-reloads for development
 ```
